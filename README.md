@@ -79,7 +79,7 @@ Notebook: `model.ipynb`
 - Generated future consumption predictions  
 
 Notebook: `model.ipynb`  
-Model saved as: `model.pkl`
+Model: `model.pkl`
 
 ---
 
