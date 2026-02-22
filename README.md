@@ -106,7 +106,7 @@ Power-Consumption-Forecaster/
 - Power Consumption Forecast.pptx
 - README.md
 
-🔗 Project link: https://github.com/pritam2005das/Power-Consumption-Forecaster  
+🔗 Project link: [Power-Consumption-Forecaster](https://github.com/pritam2005das/Power-Consumption-Forecaster)  
 
 ---
 
